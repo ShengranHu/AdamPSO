@@ -16,4 +16,4 @@ The implementation of AdamPSO is in `optimisers/EA.m`.
 
 ## Reference
 
-This repo is based on [Dr. Liu and Mr. Pei's code](https://github.com/SUSTech-EC2021/Assignment1).
+The testing framework is based on [Dr. Liu and Mr. Pei's repo](https://github.com/SUSTech-EC2021/Assignment1).
