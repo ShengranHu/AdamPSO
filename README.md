@@ -1,5 +1,5 @@
-# AdamPSO [[pdf]](/AdamPSO.pdf)
-A Particle Swarm Optimization Algorithm with Adaptive Moment Estimation
+# AdamPSO 
+A Particle Swarm Optimization Algorithm with Adaptive Moment Estimation. The algorithm and the experimental results details in [[pdf]](/AdamPSO.pdf).
 
 ## Overview
 
@@ -8,7 +8,7 @@ AdamPSO is a Particle Swarm Optimization Algorithm with Adaptive Moment Estimati
 
 ## Guideline for running the code 
 
-Run `testEA.m` for validating the results in [[pdf]](/AdamPSO.pdf).
+Run `testEA.m` for reproducing the results in [[pdf]](/AdamPSO.pdf).
 
 Modify `configurations.m` if you want to customize the testing cases.
 
