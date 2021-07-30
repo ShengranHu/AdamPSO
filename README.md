@@ -8,7 +8,7 @@ AdamPSO is a Particle Swarm Optimization Algorithm with Adaptive Moment Estimati
 
 ## Guideline for running the code 
 
-Run `testEA.m` for reproducing the results in [[pdf]](/AdamPSO.pdf).
+Run `testEA.m` for reproducing the experimental results.
 
 Modify `configurations.m` if you want to customize the testing cases.
 
