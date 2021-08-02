@@ -1,10 +1,10 @@
 # AdamPSO 
-A Particle Swarm Optimization Algorithm with Adaptive Moment Estimation. The algorithm and the experimental results detail in [[pdf]](/AdamPSO.pdf).
+A Particle Swarm Optimization Algorithm with Adaptive Moment Estimation.
 
 ## Overview
 
 <img align="right" width="300" src="/fig/f5_dim.jpg">
-AdamPSO is a Particle Swarm Optimization Algorithm with Adaptive Moment Estimation (Adam) method for single objective black-box optimization. In this approach, the learning rate in each dimension is independently adjusted in a self-adaptive manner. As a result, it improves the performance of the conventional PSO algorithm in some classic benchmarking functions.
+AdamPSO is a Particle Swarm Optimization Algorithm with Adaptive Moment Estimation (Adam) method for single objective black-box optimization. In this approach, the learning rate in each dimension is independently adjusted in a self-adaptive manner. As a result, it improves the performance of the conventional PSO algorithm in some classic benchmarking functions. The algorithm and the experimental results detail in [[pdf]](/AdamPSO.pdf).
 
 
 ## Guideline for running the code 
